@@ -1,0 +1,1 @@
+This repository demonstrates an example of incomplete error handling in Tcl, focusing on a division by zero scenario.  The initial `bug.tcl` shows the flawed approach, while `bugSolution.tcl` presents a corrected version using `catch` for robust error handling.
